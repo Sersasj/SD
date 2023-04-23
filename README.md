@@ -1,4 +1,8 @@
 # SD
+Sergio Alvarez 115735
+Vinicius Kenzo 115672
+Guilherme Ferrari 112679
+
 
 Especificação:
 
